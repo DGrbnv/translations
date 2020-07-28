@@ -2,8 +2,8 @@
     <img src="assets/logo.jpg" alt="Stacks Logo" title="Stacks" width="215" height="81" />
 </p>
 
-# Stacks Translations
-Use this repository to request a new language, submit a new translation or help us improve current Stack translations.
+# Stacks traducciones
+Utiliza este repositorio para solicitar un nuevo idioma, enviar una nueva traducción o ayudarnos a mejorar las traducciones actuales de Stack.
 
-### How to submit a translation
-Start by forking this repository, add or modify the translation and open a PR with your changes.
+### Cómo enviar una traducción
+Comienza por bifurcar este repositorio, añade o modifica la traducción y abre un PR con tus cambios.
